@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\stopwatch\sw\bin\Debug\net8.0\sw.exe
+C:\Users\HP\Desktop\stopwatch\sw\bin\Debug\net8.0\sw.deps.json
+C:\Users\HP\Desktop\stopwatch\sw\bin\Debug\net8.0\sw.runtimeconfig.json
+C:\Users\HP\Desktop\stopwatch\sw\bin\Debug\net8.0\sw.dll
+C:\Users\HP\Desktop\stopwatch\sw\bin\Debug\net8.0\sw.pdb
+C:\Users\HP\Desktop\stopwatch\sw\obj\Debug\net8.0\sw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\stopwatch\sw\obj\Debug\net8.0\sw.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\stopwatch\sw\obj\Debug\net8.0\sw.AssemblyInfo.cs
+C:\Users\HP\Desktop\stopwatch\sw\obj\Debug\net8.0\sw.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\stopwatch\sw\obj\Debug\net8.0\sw.dll
+C:\Users\HP\Desktop\stopwatch\sw\obj\Debug\net8.0\refint\sw.dll
+C:\Users\HP\Desktop\stopwatch\sw\obj\Debug\net8.0\sw.pdb
+C:\Users\HP\Desktop\stopwatch\sw\obj\Debug\net8.0\sw.genruntimeconfig.cache
+C:\Users\HP\Desktop\stopwatch\sw\obj\Debug\net8.0\ref\sw.dll
