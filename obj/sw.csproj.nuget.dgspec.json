@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Desktop\\stopwatch\\SW\\sw.csproj": {}
+    "C:\\Users\\HP\\Desktop\\stopwatch\\sw\\sw.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Desktop\\stopwatch\\SW\\sw.csproj": {
+    "C:\\Users\\HP\\Desktop\\stopwatch\\sw\\sw.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\stopwatch\\SW\\sw.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\stopwatch\\sw\\sw.csproj",
         "projectName": "sw",
-        "projectPath": "C:\\Users\\HP\\Desktop\\stopwatch\\SW\\sw.csproj",
+        "projectPath": "C:\\Users\\HP\\Desktop\\stopwatch\\sw\\sw.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\stopwatch\\SW\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\stopwatch\\sw\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
